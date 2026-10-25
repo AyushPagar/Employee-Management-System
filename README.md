@@ -8,4 +8,4 @@ Prerequisites:
 Tools Required:
 - VS Code 
 - Postman for API Testing
-- Database Client  MongoDB Compass
+- Database Client  MongoDB Compass.
